@@ -14,9 +14,11 @@ Just cooy the follow description to your agent:
 ```
 This is a vibe coding skills library that documents various common problems to help you avoid pitfalls.
 
-https://github.com/chen3feng/agent-skills
+https://github.com/wangwenya2023-ux/agent-skills/
 
 Usage: Clone it to the same directory as your current project.
+
+Update it when it is necessary.
 ```
 
 Welcome to fork this repository and accumulate your own coding skills.
